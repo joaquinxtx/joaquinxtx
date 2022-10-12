@@ -74,7 +74,7 @@
 
 <a href="https://portafolio-joaquin.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/portafolio-joaquin.vercel.app-black?style=flat-square&logo=google-chrome"></a>
 
-<a href="https://www.linkedin.com/in/joaquin1998/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-joaquin%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/joaquin1998/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Joaquin%20Toledo-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="https://www.instagram.com/joaquinxtx/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-joaquinxtx-black?style=flat-square&logo=instagram"></a>
 
