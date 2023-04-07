@@ -22,7 +22,7 @@
 
 - 💻 &nbsp; Java 
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | NextJS
+- 🌐 &nbsp; KOTLIN | ANDROID STUDIO | TYPESCRIPT | JavaScript | Bootstrap | ReactJS | NextJS
 
 <!--
 
