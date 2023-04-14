@@ -1,11 +1,11 @@
 
 
-Welcome to my GitHub profile! 👋
+# Welcome to my GitHub profile! 👋
 
 My name is Joaquin Toledo , and I'm a Android Developer.
 ![Banner text](https://i1.wp.com/thesimplycoder.com/wp-content/uploads/2018/12/Getting-Started-Android-Studio-Kotlin-Banner.jpg?fit=720%2C340&ssl=1)
 
-🔍 About me
+## 🔍 About me
 
 🌱 I’m currently learning JetPack Compose.
 🤔 I’m looking for help with Swift / ios16.
@@ -13,7 +13,7 @@ My name is Joaquin Toledo , and I'm a Android Developer.
 📫 How to reach me: Joaquindev98@gmail.com .
 
 
-🚀 Skills and tools:
+##🚀 Skills and tools:
 
 Kotlin Kotlin icon 
 Android Android icon 
@@ -23,17 +23,17 @@ TypeScript TypeScript icon
 Next.js Next.js icon 
 Node.js Node.js icon.
 
-📈 GitHub stats
+##📈 GitHub stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquinxtx&show_icons=true&theme=radical)
 
-📫 How to reach me
+##📫 How to reach me
 If you want to get in touch, you can email me at Joaquindev98@gmail.com or find me on the following social media platforms:
 
 [![Facebook icon](https://img.icons8.com/color/30/000000/facebook-new.png)](https://www.facebook.com/)
 [![LinkedIn icon](https://img.icons8.com/color/30/000000/linkedin.png)](https://www.linkedin.com/in/joaquinfronted/)
 [![Instagram icon](https://img.icons8.com/color/30/000000/instagram-new.png)](https://www.instagram.com/joaquinxtx/)
 
-🎯 Goals
+##🎯 Goals
 Continue to improve my skills in mobile app development for Android and iOS.
 Learn to use new technologies and development tools to improve the quality and efficiency of my projects.
 Develop leadership and project management skills in the field of mobile development.
@@ -43,7 +43,7 @@ Build professional relationships and contacts to seek job growth opportunities a
 Improve my ability to work in a team and collaborate effectively on mobile development projects.
 Attend events and conferences related to mobile development to continue learning and expanding my network of contacts.
 
-🎨Development-related Hobbies and Interests
+##🎨Development-related Hobbies and Interests
 Participating in hackathons and coding challenges to improve my skills.
 Learning about emerging technologies and their potential impact on the industry.
 Contributing to open-source projects in my free time.
