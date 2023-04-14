@@ -1,8 +1,9 @@
 
 
 Welcome to my GitHub profile! 👋
+
 My name is Joaquin Toledo , and I'm a Android Developer.
-![Banner text]([link-a-tu-imagen](https://static1.shine.com/l/m/images/blog/Kotlin-interview-questions.png))
+![Banner text](https://i1.wp.com/thesimplycoder.com/wp-content/uploads/2018/12/Getting-Started-Android-Studio-Kotlin-Banner.jpg?fit=720%2C340&ssl=1)
 
 🔍 About me
 
