@@ -3,24 +3,41 @@
 # Welcome to my GitHub profile! 👋
 
 My name is Joaquin Toledo , and I'm a Android Developer.
+
+
 ![Banner text](https://i1.wp.com/thesimplycoder.com/wp-content/uploads/2018/12/Getting-Started-Android-Studio-Kotlin-Banner.jpg?fit=720%2C340&ssl=1)
+
 
 ## 🔍 About me
 
-🌱 I’m currently learning JetPack Compose.
-🤔 I’m looking for help with Swift / ios16.
-💬 Ask me about Kotlin / Android.
-📫 How to reach me: Joaquindev98@gmail.com .
+- 🌱 I’m currently learning JetPack Compose.
+- 🤔 I’m looking for help with Swift / ios16.
+- 💬 Ask me about Kotlin / Android.
+- 📫 How to reach me: Joaquindev98@gmail.com .
 
 
 ## 🚀 Skills and tools:
 
-Kotlin: <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
-Android: <img src="https://img.icons8.com/color/48/000000/android-os.png"/>
-React: <img src="https://img.icons8.com/office/40/000000/react.png"/>
-TypeScript: <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
-Node.js: <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-Next.js: <img src="https://img.icons8.com/color/48/000000/next.png"/>
+- Android
+<img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
+<img src="https://img.icons8.com/color/48/000000/android-os.png"/>
+<img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+<img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>
+<img src="https://img.icons8.com/color/48/000000/material-design.png"/>
+<img src="https://img.icons8.com/color/48/000000/jetpack-compose.png"/>
+
+- Web Rront-end
+ <img src="https://img.icons8.com/office/40/000000/react.png"/>
+ <img src="https://img.icons8.com/color/48/000000/tailwind-css.png"/>
+ <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+ <img src="https://img.icons8.com/color/48/000000/sass.png"/>
+ <img src="https://img.icons8.com/color/48/000000/next.png"/>
+ 
+ - Back-end
+ <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+ <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+ <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+ <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 
 ## 📈 GitHub stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquinxtx&show_icons=true&theme=radical)
