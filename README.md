@@ -28,7 +28,7 @@ My name is Joaquin Toledo , and I'm a Android Developer.
  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 
 ## 📈 GitHub stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquinxtx&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinxtx&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquinxtx&show_icons=true&theme=radical)                    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinxtx&theme=radical)
 
 ## 📫 How to reach me
 If you want to get in touch, you can email me at Joaquindev98@gmail.com or find me on the following social media platforms:
