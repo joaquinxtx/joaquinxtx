@@ -1,94 +1,47 @@
 
 
-### Hi there 👋<h2> I'm Joaquin </h2>
+Welcome to my GitHub profile! 👋
+My name is Joaquin Toledo , and I'm a Android Developer.
+![Banner text]([link-a-tu-imagen](https://static1.shine.com/l/m/images/blog/Kotlin-interview-questions.png))
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+🔍 About me
+🌱 I’m currently learning JetPack Compose.
+🤔 I’m looking for help with Swift / ios16.
+💬 Ask me about Kotlin / Android.
+📫 How to reach me: Joaquindev98@gmail.com .
+🚀 Skills and tools
+Kotlin Kotlin icon  Android Android icon Jetpack Compose Jetpack Compose icon React React icon TypeScript TypeScript icon Next.js Next.js icon Node.js Node.js icon.
 
-<h3> 👨🏻•💻 About Me </h3>
+📈 GitHub stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquinxtx&show_icons=true&theme=radical)
 
+📫 How to reach me
+If you want to get in touch, you can email me at Joaquindev98@gmail.com or find me on the following social media platforms:
 
+[![Facebook icon](https://img.icons8.com/color/30/000000/facebook-new.png)](https://www.facebook.com/)
+[![LinkedIn icon](https://img.icons8.com/color/30/000000/linkedin.png)](https://www.linkedin.com/in/joaquinfronted/)
+[![Instagram icon](https://img.icons8.com/color/30/000000/instagram-new.png)](https://www.instagram.com/joaquinxtx/)
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+🎯 Goals
+Continue to improve my skills in mobile app development for Android and iOS.
+Learn to use new technologies and development tools to improve the quality and efficiency of my projects.
+Develop leadership and project management skills in the field of mobile development.
+Participate in open-source projects and contribute to the mobile development community.
+Stay up-to-date on trends and innovations in mobile development.
+Build professional relationships and contacts to seek job growth opportunities and collaboration on projects.
+Improve my ability to work in a team and collaborate effectively on mobile development projects.
+Attend events and conferences related to mobile development to continue learning and expanding my network of contacts.
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+🎨Development-related Hobbies and Interests
+Participating in hackathons and coding challenges to improve my skills.
+Learning about emerging technologies and their potential impact on the industry.
+Contributing to open-source projects in my free time.
+Attending technology meetups and conferences to network and learn from experts.
+Experimenting with new development frameworks and tools to keep my skills up-to-date.
+Reading tech blogs and listening to podcasts to stay informed about the latest trends.
+Building personal projects to explore new development concepts and techniques.
+Collaborating with other developers on projects outside of work.
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
-
-
-
-<h3>🛠 Tech Stack</h3>
-
-
-
-- 💻 &nbsp; Java 
-
-- 🌐 &nbsp; KOTLIN | ANDROID STUDIO | TYPESCRIPT | JavaScript | Bootstrap | ReactJS | NextJS
-
-<!--
-
-- 🛢 &nbsp; MySQL | MongoDB
-
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
-
-
-
--->
-
-
-
-<h3>🛠 To Learn</h3>
-
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | Azure
-
-<hr>
-
-
-
-<br/><br/>
-
-[![Joaquin GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaquinxtx&show_icons=true)](https://github.com/joaquinxtx)
-
-<br/>
-
-<br/>
-
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinxtx&show_icons=true)
-
-<br><br>
+Thanks for visiting my GitHub profile! Feel free to follow me or reach out if you have any questions or just want to say hi. 😊
 
 
-
-<hr>
-
-
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<br>
-
-
-
-<p align="center">
-
-<a href="https://portafolio-joaquin.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/portafolio-joaquin.vercel.app-black?style=flat-square&logo=google-chrome"></a>
-
-<a href="https://www.linkedin.com/in/joaquin1998/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Joaquin%20Toledo-blue?style=flat-square&logo=linkedin"></a>
-
-<a href="https://www.instagram.com/joaquinxtx/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-joaquinxtx-black?style=flat-square&logo=instagram"></a>
-
-
-</p>
-
-
-
-
-
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=joaquinxtx)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
-
-
-
-
-
-<hr>
