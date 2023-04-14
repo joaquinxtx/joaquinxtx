@@ -19,7 +19,7 @@ My name is Joaquin Toledo , and I'm a Android Developer.
 ## 🚀 Skills and tools:
 
 ### Android
-- <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> | <img src="https://img.icons8.com/color/48/000000/android-os.png"/> | <img src="https://img.icons8.com/color/48/000000/firebase.png"/> | <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/> | <img width="50" height="50" src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png"/>
+ <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>  <img src="https://img.icons8.com/color/48/000000/android-os.png"/>  <img src="https://img.icons8.com/color/48/000000/firebase.png"/>  <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>  <img width="50" height="50" src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png"/>
 
 ### Web Rront-end
 - <img src="https://img.icons8.com/office/40/000000/react.png"/> | <img src="https://img.icons8.com/color/48/000000/tailwind-css.png"/> | <img src="https://img.icons8.com/color/48/000000/typescript.png"/> | <img src="https://img.icons8.com/color/48/000000/sass.png"/> | <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
