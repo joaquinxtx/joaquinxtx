@@ -5,12 +5,22 @@ My name is Joaquin Toledo , and I'm a Android Developer.
 ![Banner text]([link-a-tu-imagen](https://static1.shine.com/l/m/images/blog/Kotlin-interview-questions.png))
 
 🔍 About me
+
 🌱 I’m currently learning JetPack Compose.
 🤔 I’m looking for help with Swift / ios16.
 💬 Ask me about Kotlin / Android.
 📫 How to reach me: Joaquindev98@gmail.com .
-🚀 Skills and tools
-Kotlin Kotlin icon  Android Android icon Jetpack Compose Jetpack Compose icon React React icon TypeScript TypeScript icon Next.js Next.js icon Node.js Node.js icon.
+
+
+🚀 Skills and tools:
+
+Kotlin Kotlin icon 
+Android Android icon 
+Jetpack Compose Jetpack Compose icon
+React React icon 
+TypeScript TypeScript icon
+Next.js Next.js icon 
+Node.js Node.js icon.
 
 📈 GitHub stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquinxtx&show_icons=true&theme=radical)
