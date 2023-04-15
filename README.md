@@ -5,7 +5,7 @@
 My name is Joaquin Toledo , and I'm a Android Developer.
 
 
-![Banner text](https://res.cloudinary.com/practicaldev/image/fetch/s--5xMlIwgb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cy6a7hysxbj3bg7aevar.png)
+![Banner text](https://learn.vonage.com/content/blog/a-better-way-of-creating-android-views-with-jetpackcompose/andriod_jetpack-compose_1200x600.png)
 
 
 ## 🔍 About me
