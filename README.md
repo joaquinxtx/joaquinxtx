@@ -5,7 +5,7 @@
 My name is Joaquin Toledo , and I'm a Android Developer.
 
 
-![Banner text]([https://i1.wp.com/thesimplycoder.com/wp-content/uploads/2018/12/Getting-Started-Android-Studio-Kotlin-Banner.jpg?fit=720%2C340&ssl=1](https://redwerk.es/wp-content/uploads/2019/11/cover_Kotlin.png))
+![Banner text](https://res.cloudinary.com/practicaldev/image/fetch/s--5xMlIwgb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cy6a7hysxbj3bg7aevar.png)
 
 
 ## 🔍 About me
