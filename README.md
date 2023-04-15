@@ -24,7 +24,7 @@ My name is Joaquin Toledo , and I'm a Android Developer.
 ### Web Rront-end
  <img src="https://img.icons8.com/office/40/000000/react.png"/>  <img src="https://img.icons8.com/color/48/000000/tailwind-css.png"/>  <img src="https://img.icons8.com/color/48/000000/typescript.png"/>  <img src="https://img.icons8.com/color/48/000000/sass.png"/>  <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
  
-### Back-end
+### Others
  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 
 ## 📈 GitHub stats
