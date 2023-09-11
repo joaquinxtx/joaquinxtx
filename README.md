@@ -5,7 +5,7 @@
 ## My name is Joaquin Toledo , and I'm a Android Developer.
 
 
-![Banner text](https://learn.vonage.com/content/blog/a-better-way-of-creating-android-views-with-jetpackcompose/andriod_jetpack-compose_1200x600.png)
+![Banner text]([https://learn.vonage.com/content/blog/a-better-way-of-creating-android-views-with-jetpackcompose/andriod_jetpack-compose_1200x600.png](https://nimblehq.co/public/images/posts/android-tips-for-working-with-preview-in-jetpack-compose/android-tips-for-working-with-preview-in-jetpack-compose.png))
 
 
 ## 🔍 About me
